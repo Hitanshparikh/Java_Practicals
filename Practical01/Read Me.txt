@@ -1,0 +1,11 @@
+This folder contains all practical files of java made by 23CS054 Hitansh Parikh of CSPIT - CSE.
+
+In this folder the files are named as P1, P2.... up to P6. These files are practical files of Practical 1.
+
+For example,
+P1 represents practical 1.1
+P2 represents practical 1.2
+P7 represents practical 2.2
+P14 represents practical 3.1
+p16 represents practical 3.3
+P23 represents practical 4.3 and so on...
